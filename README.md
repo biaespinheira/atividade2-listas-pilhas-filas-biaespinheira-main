@@ -41,8 +41,6 @@ Para controlar a sequência das jogadas e garantir a rotação cíclica entre os
 4. As cartas serão distribuídas, e o jogo rodará automaticamente exibindo as jogadas e o estado das mãos e montes.
 5. Acompanhe a saída no terminal para ver a evolução da partida e identificar o jogador perdedor que ficará com o "mico".
 
-![Imagem do jogo](game/imgs/Distribui.png)
-
 ## Referências
 
 - [Algoritmos – Teoria e Prática, Cormen et al.](https://pt.wikipedia.org/wiki/Algoritmos)
