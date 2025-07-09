@@ -1,6 +1,6 @@
 # Jogo do Mico no Terminal
 
-![Imagem de capa do projeto](imgs/capa.png)
+![Imagem de capa do projeto](Jogo do mico - versão principal/imgs/capa.png)
 
 ## Descrição
 
@@ -24,7 +24,7 @@ A mão de cartas de cada jogador foi representada por uma **lista simplesmente e
 - Permite **inserção e remoção dinâmicas** à medida que o jogo avança.
 - Facilita o **percorrer das cartas** para buscar pares ou selecionar cartas para serem retiradas por outro jogador.
 
-![Imagem das cartas do jogador](assets/Cartas.png)
+![Imagem das cartas do jogador](Jogo do mico - versão principal/imgs/Cartas.png)
 
 ### 🔁 Lista circular para a ordem dos jogadores
 
@@ -41,7 +41,7 @@ Para controlar a sequência das jogadas e garantir a rotação cíclica entre os
 4. As cartas serão distribuídas, e o jogo rodará automaticamente exibindo as jogadas e o estado das mãos e montes.
 5. Acompanhe a saída no terminal para ver a evolução da partida e identificar o jogador perdedor que ficará com o "mico".
 
-![Imagem do jogo](assets/Distribui.png)
+![Imagem do jogo](Jogo do mico - versão principal/imgs/Distribui.png)
 
 ## Referências
 
